@@ -33,3 +33,25 @@ Put this JAR-File into the plugins folder of your minecraft server. Start your M
 
 ## Contributions
 I am new to Minecraft plugins. So contributions and suggestions for improvement are always welcome! 
+
+## Screenshots
+Generating spawn cages depending on the number of players
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/80370750/227575107-4a37b2df-6e3f-47dc-9c5f-644ec4a2affd.png"/>
+</div>
+
+Starting the speedrun with `/speedrun start`:
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/80370750/227574760-29f4776c-c0ef-4154-823a-77d238beda9a.png"/>
+</div>
+
+Displaying position (instead of timer) on the action bar with `/position on`:
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/80370750/227579228-d97a28e1-f5b0-4a81-8483-a265ed723bdd.png"/>
+</div>
+
+Saving speedrun time and participating players when ender dragon is defeated:
+<div>
+  <img width="500" src="https://user-images.githubusercontent.com/80370750/227582814-0af3c829-37a2-4dbe-a7de-97123c446e26.png"/>
+</div>
+
