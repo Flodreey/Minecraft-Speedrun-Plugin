@@ -1,0 +1,14 @@
+name: SpeedRun_Plugin
+version: '${project.version}'
+main: de.testplugin.test.SpeedRunPlugin
+api-version: 1.19
+commands:
+  interaction:
+    description: Enables or disables interaction with the environment (dlacing/ destroying blocks, interaction with entities)
+  speedrun:
+    description: Starts, stops or pauses a speedrun
+  position:
+    description: Prints the current position of the players to the console or prints your position
+  test:
+  freeze:
+
